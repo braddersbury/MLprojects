@@ -1,3 +1,8 @@
+"""Attempt at a variation of a GCHQ Question: 
+What is the longest word in the english dictionary
+which is in ascending alphabetical order but without any alphabetically consecutive letters e.g. ab"""
+
+
 import enchant
 import string
 import random
